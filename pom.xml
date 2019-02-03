@@ -14,6 +14,8 @@
   </parent>
   <name>petclinic</name>
 
+    <!-- very important comment -->
+
   <properties>
 
     <!-- Generic properties -->
